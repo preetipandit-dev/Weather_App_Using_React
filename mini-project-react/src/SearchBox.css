@@ -1,0 +1,11 @@
+.SearchBox{
+    text-align: center;
+    color: black;
+    margin-bottom: 25px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
